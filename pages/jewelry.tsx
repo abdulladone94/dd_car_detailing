@@ -26,7 +26,7 @@ function Jewelry() {
               </li>
               <li>
                 Ceramic Coat Protection, unlike regular wax, bonds with your
-                car's surface for long-lasting candy-gloss shine, applied by
+                cars surface for long-lasting candy-gloss shine, applied by
                 skilled professionals.
               </li>
               <li>

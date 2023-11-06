@@ -38,7 +38,7 @@ function Gems() {
                   amazing inside and out.
                 </li>
                 <li>
-                  Enjoy a car that's not only beautiful on the outside but also
+                  Enjoy a car that is not only beautiful on the outside but also
                   fresh, clean, and protected on the inside.
                 </li>
               </ul>
@@ -59,11 +59,11 @@ function Gems() {
                   and banish dullness.
                 </li>
                 <li>
-                  Car detailing is well-known for enhancing your vehicle's look
+                  Car detailing is well-known for enhancing your vehicles look
                   and protection.
                 </li>
                 <li>
-                  With Golden Detail, enjoy a beautiful, clean car that's
+                  With Golden Detail, enjoy a beautiful, clean car that is
                   protected, smooth, and smells fresh.
                 </li>
               </ul>
@@ -76,8 +76,8 @@ function Gems() {
               <div className="my-4 text-2xl">EXTERIOR DETAILING</div>
               <div className="my-6 flex items-center text-4xl font-bold">
                 Full exterior detailing works by thoroughly cleaning and
-                restoring your car's outer surfaces to make it shine and look
-                its best.
+                restoring your cars outer surfaces to make it shine and look its
+                best.
               </div>
 
               <ul className="my-2 list-disc pl-6 text-lg">
@@ -107,11 +107,11 @@ function Gems() {
 
               <ul className="my-2 list-disc pl-6 text-lg">
                 <li>
-                  Elevate your car's interior with Full Interior Detailing for a
+                  Elevate your cars interior with Full Interior Detailing for a
                   touch of class and luxury.
                 </li>
                 <li>
-                  Interior detailing means a thorough cleaning of your car's
+                  Interior detailing means a thorough cleaning of your cars
                   inside, involving materials like leather, plastic, and more,
                   using techniques like vacuuming and steam-cleaning.
                 </li>
@@ -128,9 +128,8 @@ function Gems() {
             <div className="text-start ">
               <div className="my-4 text-2xl">(PLATINUM) PAINT CORRECTION</div>
               <div className="my-6 flex items-center text-4xl font-bold">
-                Platinum Full Paint Correction enhances your vehicle's
-                appearance and protects its paint, giving it a fresh, polished
-                look.
+                Platinum Full Paint Correction enhances your vehicles appearance
+                and protects its paint, giving it a fresh, polished look.
               </div>
 
               <ul className="my-2 list-disc pl-6 text-lg">
@@ -139,9 +138,9 @@ function Gems() {
                   get rid of imperfections like scratches and swirl marks.
                 </li>
                 <li>
-                  Paint correction is the perfect way to restore your car's
-                  shine and get rid of blemishes caused by scratches, water
-                  spots, and more. Skilled professionals use the right tools and
+                  Paint correction is the perfect way to restore your cars shine
+                  and get rid of blemishes caused by scratches, water spots, and
+                  more. Skilled professionals use the right tools and
                   techniques.
                 </li>
                 <li>

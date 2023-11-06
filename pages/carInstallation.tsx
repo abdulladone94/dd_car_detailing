@@ -39,20 +39,19 @@ function carInstallation() {
           <div className="text-start ">
             <div className="my-4 text-2xl">HEAD UNIT INSTALLATION</div>
             <div className="my-6 flex items-center text-4xl font-bold">
-              Upgrade your car's audio with Head Unit Installation.
+              Upgrade your cars audio with Head Unit Installation.
             </div>
 
             <ul className="my-2 list-disc pl-6 text-lg">
               <li>
-                We're your top choice for premium head unit installation in
+                We are your top choice for premium head unit installation in
                 Geelong and Melbourne, ensuring you receive the finest products
                 and services that exceed your expectations.
               </li>
               <li>
-                A high-quality head unit is the heart of your car's
-                entertainment system, and upgrading to one can transform your
-                driving experience with better audio, connectivity, and modern
-                features.
+                A high-quality head unit is the heart of your cars entertainment
+                system, and upgrading to one can transform your driving
+                experience with better audio, connectivity, and modern features.
               </li>
               <li>
                 Enjoy enhanced audio quality and connectivity with a top-notch
@@ -77,20 +76,20 @@ function carInstallation() {
           <div className="text-start ">
             <div className="my-4 text-2xl">SPEAKERS’ INSTALLATION</div>
             <div className="my-6 flex items-center text-4xl font-bold">
-              Enhance your car's sound with Speakers' Installation.
+              Enhance your cars sound with Speakers' Installation.
             </div>
 
             <ul className="my-2 list-disc pl-6 text-lg">
               <li>
-                Upgrade your car's audio experience with professional Speakers'
+                Upgrade your cars audio experience with professional Speakers
                 Installation.
               </li>
               <li>
-                Elevate your sound quality with expert Speakers' Installation
-                for your vehicle.
+                Elevate your sound quality with expert Speakers Installation for
+                your vehicle.
               </li>
               <li>
-                Enjoy better music on the go by opting for skilled Speakers'
+                Enjoy better music on the go by opting for skilled Speakers
                 Installation.
               </li>
             </ul>
@@ -101,7 +100,7 @@ function carInstallation() {
           <div className="text-start ">
             <div className="my-4 text-2xl">AMPLIFIER INSTALLATION</div>
             <div className="my-6 flex items-center text-4xl font-bold">
-              Boost your car's audio with Amplifier Installation.
+              Boost your cars audio with Amplifier Installation.
             </div>
 
             <ul className="my-2 list-disc pl-6 text-lg">
@@ -129,7 +128,7 @@ function carInstallation() {
           <div className="text-start ">
             <div className="my-4 text-2xl">SUBWOOFER INSTALLATION</div>
             <div className="my-6 flex items-center text-4xl font-bold">
-              Upgrade your car's bass with Subwoofer Installation.
+              Upgrade your cars bass with Subwoofer Installation.
             </div>
 
             <ul className="my-2 list-disc pl-6 text-lg">
@@ -138,7 +137,7 @@ function carInstallation() {
                 Installation.
               </li>
               <li>
-                Elevate your car's sound quality by choosing expert Subwoofer
+                Elevate your cars sound quality by choosing expert Subwoofer
                 Installation.
               </li>
               <li>

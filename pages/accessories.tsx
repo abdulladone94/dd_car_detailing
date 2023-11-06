@@ -25,7 +25,7 @@ function reverseAid() {
                 Melbourne, offering quality products and services.
               </li>
               <li>
-                Don't overlook the importance of driving light installation, as
+                Do not overlook the importance of driving light installation, as
                 it enhances visibility, safety, and the aesthetics of your
                 vehicle, making it a must-have service.
               </li>
@@ -68,7 +68,7 @@ function reverseAid() {
                 convenience, setting the highest quality standards.
               </li>
               <li>
-                With our Love it or Free Guarantee, we're committed to 100%
+                With our Love it or Free Guarantee, we are committed to 100%
                 customer satisfaction, backed by $5,000,000 public liability
                 insurance and innovative car detailing techniques.
               </li>
