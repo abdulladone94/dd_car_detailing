@@ -76,7 +76,7 @@ function carInstallation() {
           <div className="text-start ">
             <div className="my-4 text-2xl">SPEAKERS’ INSTALLATION</div>
             <div className="my-6 flex items-center text-4xl font-bold">
-              Enhance your cars sound with Speakers' Installation.
+              Enhance your cars sound with Speakers Installation.
             </div>
 
             <ul className="my-2 list-disc pl-6 text-lg">
