@@ -20,7 +20,7 @@ function Products() {
                 budgets and needs with our customized services. Choose from our
                 predefined packages or create a tailored bundle to suit your
                 specific requirements. Our greatest joy comes from witnessing
-                the delight on our clients' faces as they behold their
+                the delight on our clients faces as they behold their
                 meticulously detailed vehicles. No matter the make or model,
                 rest assured that we treat your car as if it were our own.
               </p>
@@ -29,7 +29,7 @@ function Products() {
                 your vehicle into a pristine masterpiece. From exterior shine to
                 interior freshness, our meticulous approach ensures that your
                 car looks and feels its best. Our dedication to quality and
-                customer satisfaction is what sets us apart as one of Geelong's
+                customer satisfaction is what sets us apart as one of Geelongs
                 top choices for mobile car detailing.
               </p>
             </div>

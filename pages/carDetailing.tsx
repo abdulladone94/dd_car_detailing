@@ -69,7 +69,7 @@ function Gems() {
             <div className="text-start ">
               <div className="my-4 text-2xl">EXTERIOR DETAILING</div>
               <div className="flex items-center my-6 text-4xl font-bold">
-                Restore car's shine with full exterior detailing.
+                Restore cars shine with full exterior detailing.
               </div>
 
               <ul className="pl-6 my-2 text-lg list-disc">

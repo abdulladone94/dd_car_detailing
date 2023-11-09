@@ -76,7 +76,7 @@ function carInstallation() {
           <div className="text-start ">
             <div className="my-4 text-2xl">SPEAKERS’ INSTALLATION</div>
             <div className="flex items-center my-6 text-4xl font-bold">
-              Enhance your car's sound with Speakers' Installation.
+              Enhance your cars sound with Speakers Installation.
             </div>
 
             <ul className="pl-6 my-2 text-lg list-disc">
@@ -100,7 +100,7 @@ function carInstallation() {
           <div className="text-start ">
             <div className="my-4 text-2xl">AMPLIFIER INSTALLATION</div>
             <div className="flex items-center my-6 text-4xl font-bold">
-              Boost your car's audio with Amplifier Installation.
+              Boost your cars audio with Amplifier Installation.
             </div>
 
             <ul className="pl-6 my-2 text-lg list-disc">
@@ -128,7 +128,7 @@ function carInstallation() {
           <div className="text-start ">
             <div className="my-4 text-2xl">SUBWOOFER INSTALLATION</div>
             <div className="flex items-center my-6 text-4xl font-bold">
-              Upgrade your car's bass with Subwoofer Installation.
+              Upgrade your cars bass with Subwoofer Installation.
             </div>
 
             <ul className="pl-6 my-2 text-lg list-disc">
