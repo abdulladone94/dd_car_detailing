@@ -11,24 +11,19 @@ function Gems() {
       </Head>
       <div className="w-full overflow-hidden">
         <Head>
-          <title>Jewel Iconic - Products</title>
-          <link
-            rel="Jewel Iconic icon"
-            href="favicon.png"
-            type="image/x-icon"
-          />
+          <title>DD - Products</title>
+          <link rel="DD icon" href="favicon.png" type="image/x-icon" />
         </Head>
-        <div className="container mx-auto p-4 text-center">
+        <div className="container p-4 mx-auto text-center">
           <div className="md:flex md:items-center">
-            <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+            <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
             <div className="text-start ">
               <div className="my-4 text-2xl">PRESELL DETAILING</div>
-              <div className="my-6 flex items-center text-4xl font-bold">
-                Spoil your precious car with a luxurious full detailing
-                treatment in gold!
+              <div className="flex items-center my-6 text-4xl font-bold">
+                Pamper your car: gold detailing!.
               </div>
 
-              <ul className="my-2 list-disc pl-6 text-lg">
+              <ul className="pl-6 my-2 text-lg list-disc">
                 <li>
                   Give your car a taste of luxury with Golden Full Detailing for
                   a stunning transformation.
@@ -45,15 +40,14 @@ function Gems() {
             </div>
           </div>
           <div className="md:flex md:items-center">
-            <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+            <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
             <div className="text-start ">
               <div className="my-4 text-2xl">(GOLDEN)FULL DETAILING</div>
-              <div className="my-6 flex items-center text-4xl font-bold">
-                Give your cherished car a special treat with Golden Full
-                Detailing.
+              <div className="flex items-center my-6 text-4xl font-bold">
+                Treat your car: Golden Full Detailing.
               </div>
 
-              <ul className="my-2 list-disc pl-6 text-lg">
+              <ul className="pl-6 my-2 text-lg list-disc">
                 <li>
                   Discover Golden Full Detailing to spoil your car with luxury
                   and banish dullness.
@@ -71,16 +65,14 @@ function Gems() {
           </div>
 
           <div className="md:flex md:items-center">
-            <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+            <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
             <div className="text-start ">
               <div className="my-4 text-2xl">EXTERIOR DETAILING</div>
-              <div className="my-6 flex items-center text-4xl font-bold">
-                Full exterior detailing works by thoroughly cleaning and
-                restoring your cars outer surfaces to make it shine and look its
-                best.
+              <div className="flex items-center my-6 text-4xl font-bold">
+                Restore car's shine with full exterior detailing.
               </div>
 
-              <ul className="my-2 list-disc pl-6 text-lg">
+              <ul className="pl-6 my-2 text-lg list-disc">
                 <li>
                   For a sparkling clean car, Full Exterior Detailing is your top
                   choice!
@@ -98,14 +90,14 @@ function Gems() {
             </div>
           </div>
           <div className="md:flex md:items-center">
-            <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+            <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
             <div className="text-start ">
               <div className="my-4 text-2xl">INTERIOR DETAILING</div>
-              <div className="my-6 flex items-center text-4xl font-bold">
+              <div className="flex items-center my-6 text-4xl font-bold">
                 Experience luxury with Full Interior Detailing!
               </div>
 
-              <ul className="my-2 list-disc pl-6 text-lg">
+              <ul className="pl-6 my-2 text-lg list-disc">
                 <li>
                   Elevate your cars interior with Full Interior Detailing for a
                   touch of class and luxury.
@@ -124,15 +116,14 @@ function Gems() {
             </div>
           </div>
           <div className="md:flex md:items-center">
-            <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+            <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
             <div className="text-start ">
               <div className="my-4 text-2xl">(PLATINUM) PAINT CORRECTION</div>
-              <div className="my-6 flex items-center text-4xl font-bold">
-                Platinum Full Paint Correction enhances your vehicles appearance
-                and protects its paint, giving it a fresh, polished look.
+              <div className="flex items-center my-6 text-4xl font-bold">
+                Revive paint with Platinum Correction.
               </div>
 
-              <ul className="my-2 list-disc pl-6 text-lg">
+              <ul className="pl-6 my-2 text-lg list-disc">
                 <li>
                   Want a flawless car? Choose Platinum Full Paint Correction to
                   get rid of imperfections like scratches and swirl marks.

@@ -4,8 +4,8 @@ function Article() {
   return (
     <div className="w-full overflow-hidden">
       <Head>
-        <title>Jewel Iconic - Articles</title>
-        <link rel="Jewel Iconic icon" href="favicon.png" type="image/x-icon" />
+        <title>DD - Articles</title>
+        <link rel="DD icon" href="favicon.png" type="image/x-icon" />
       </Head>
       <main>Articles</main>
     </div>

@@ -6,19 +6,19 @@ function carInstallation() {
   return (
     <div className="w-full overflow-hidden">
       <Head>
-        <title>Jewel Iconic - Company</title>
-        <link rel="Jewel Iconic icon" href="favicon.png" type="image/x-icon" />
+        <title>DD - Company</title>
+        <link rel="DD icon" href="favicon.png" type="image/x-icon" />
       </Head>
-      <div className="container mx-auto p-4 text-center">
+      <div className="container p-4 mx-auto text-center">
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">STEREO SYSTEM INSTALLATION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
-              Get the best tunes with professional Stereo System Installation.
+            <div className="flex items-center my-6 text-4xl font-bold">
+              Top tunes: Pro Stereo Installation.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 Elevate your sound experience with expert Stereo System
                 Installation for the best tunes.
@@ -35,14 +35,14 @@ function carInstallation() {
           </div>
         </div>
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">HEAD UNIT INSTALLATION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
-              Upgrade your cars audio with Head Unit Installation.
+            <div className="flex items-center my-6 text-4xl font-bold">
+              Enhance audio: Head Unit Install.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 We are your top choice for premium head unit installation in
                 Geelong and Melbourne, ensuring you receive the finest products
@@ -72,14 +72,14 @@ function carInstallation() {
           </div>
         </div>
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">SPEAKERS’ INSTALLATION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
-              Enhance your cars sound with Speakers Installation.
+            <div className="flex items-center my-6 text-4xl font-bold">
+              Enhance your car's sound with Speakers' Installation.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 Upgrade your cars audio experience with professional Speakers
                 Installation.
@@ -96,14 +96,14 @@ function carInstallation() {
           </div>
         </div>
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">AMPLIFIER INSTALLATION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
-              Boost your cars audio with Amplifier Installation.
+            <div className="flex items-center my-6 text-4xl font-bold">
+              Boost your car's audio with Amplifier Installation.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 DD Car Detailing offers a range of premium car detailing
                 services, including ceramic protection, setting high standards
@@ -124,14 +124,14 @@ function carInstallation() {
           </div>
         </div>
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">SUBWOOFER INSTALLATION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
-              Upgrade your cars bass with Subwoofer Installation.
+            <div className="flex items-center my-6 text-4xl font-bold">
+              Upgrade your car's bass with Subwoofer Installation.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 Pump up the bass in your car with professional Subwoofer
                 Installation.

@@ -52,15 +52,11 @@ const footerLinks = [
 function Footer() {
   return (
     <footer className="w-full overflow-hidden border-t border-white/[0.2] bg-[#000B29] py-6 font-jost text-xl">
-      <div className="mx-auto mt-12 flex w-4/5 items-center justify-start sm:mx-auto">
+      <div className="flex items-center justify-start w-4/5 mx-auto mt-12 sm:mx-auto">
         {/* leftside */}
         <div className=" h-[80px] w-[145px] cursor-pointer">
           <Link href="/">
-            <Image
-              src={logo_round}
-              alt="Jewel Iconic logo"
-              objectFit="contain"
-            />
+            <Image src={logo_round} alt="DD logo" objectFit="contain" />
           </Link>
         </div>
       </div>
@@ -68,21 +64,20 @@ function Footer() {
         <div className="flex flex-1 flex-col items-center justify-start px-8 lg:w-[35%]">
           {/* paragraphs */}
           <div className="w-full text-base font-thin ">
-            <p>
-              Jewel Iconic is a Gems and Jewelry, heigh quality manufacturing
-              company.
-            </p>
-            <p className="mt-6">
+            <p>DD Where your ride gets the royal treatment.</p>
+            {/* <p className="mt-6">
               {' '}
-              our mission is to craft exquisite, timeless, and extraordinary
-              jewelry pieces that transcend the boundaries of beauty and
-              artistry, <br />
-              fostering passion, and inspiring a sense of wonder in those who
-              wear our creations.
-            </p>
+              our mission is to craft exquisite, timeless, and extraordinary car
+              detailing that transcend the boundaries.
+              <br />
+              Where your cars potential is realized,
+            </p> */}
+            <p className="mt-6">contact@ddcardetailing.com</p>
+            <p className="mt-2">+61435717073</p>
+            <p className="mt-2">Geelong, Australia</p>
           </div>
           {/* social links */}
-          <div className="mt-10 flex w-full items-center justify-start space-x-4 py-2 md:py-0">
+          <div className="flex items-center justify-start w-full py-2 mt-10 space-x-4 md:py-0">
             <Link
               target="_blank"
               href="https://www.linkedin.com/in/jewel-iconic/"
@@ -115,7 +110,7 @@ function Footer() {
                 {column.links.map((link) => (
                   <li key={link.title} className="[&_a]:last:mb-0">
                     <Link
-                      className="hover:text-off-white mb-3 block text-white transition-colors"
+                      className="block mb-3 text-white transition-colors hover:text-off-white"
                       href={link.href}
                     >
                       {link.title}

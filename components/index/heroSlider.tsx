@@ -36,8 +36,8 @@ export default function HeroSlider({ images }: ISliderProps) {
                   Get started <br /> today+
                 </h1>
                 <p className="min-w-[270px] max-w-[240px] font-poppins text-[18px] sm:max-w-none lg:text-xl lg:leading-7">
-                  Design. Build & Launch <br />
-                  Need to brainstorm? We got you!
+                  DD CAR DETAILING <br />
+                  GET THE LUXURIOUS YOU DESERVE TODAY!
                   <br />
                 </p>
               </div>
@@ -49,7 +49,8 @@ export default function HeroSlider({ images }: ISliderProps) {
                   Beyond <br /> Borders
                 </h1>
                 <p className="min-w-[270px] max-w-[240px] text-[18px] sm:max-w-none lg:text-xl lg:leading-7">
-                  Meet the new standard for modern luxury jewelry.
+                  DD CAR DETAILING <br />
+                  BOOK INSTANTLY ONLINE OR CALL
                   <br />
                 </p>
               </div>
@@ -58,10 +59,11 @@ export default function HeroSlider({ images }: ISliderProps) {
             <div className="flex justify-center">
               <div className="absolute top-1/4 z-[50] px-8 text-center text-white sm:top-1/3 sm:text-left md:top-1/3 md:left-2/4">
                 <h1 className="mb-[24px] text-[40px] uppercase leading-none lg:text-7xl">
-                  Beyond <br /> Borders
+                  EXCLUSIVE <br />
                 </h1>
                 <p className="min-w-[270px] max-w-[240px] text-[18px] sm:max-w-none lg:text-xl lg:leading-7">
-                  Meet the new standard for modern luxury jewelry.
+                  WE DETAIL & SERVE BETTER WAY TOMORROW
+                  <br />
                   <br />
                 </p>
               </div>

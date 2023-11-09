@@ -6,25 +6,31 @@ import ProductCard from './productCard';
 function Products() {
   return (
     <section>
-      <div className="mx-auto mb-48 max-w-7xl px-6 md:px-8">
+      <div className="px-6 mx-auto mb-48 max-w-7xl md:px-8">
         <div className="flex flex-col justify-between md:flex-row">
           {/* left */}
           <div className="flex flex-col md:w-1/2 md:pr-20">
             {/* titles */}
             <div>
-              <p className="mb-11 font-jost text-2xl md:text-5xl lg:text-6xl">
-                Checkout <br /> Jewel Iconic products
+              <p className="text-2xl mb-11 font-jost md:text-5xl lg:text-6xl">
+                DD Car Detailing <br /> Emphasizes Services
               </p>
-              <p className="mb-6 hidden font-poppins text-lg md:block lg:text-xl">
-                Lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod Lorem Ipsum dolor sit amet, consectetur adipiscing elit,
-                sed do eiusmod Lorem Ipsum dolor sit amet, consectetur
-                adipiscing elit, sed do eiusmod Lorem Ipsum dolor sit amet,
-                consectetur adipiscing elit, sed do eiusmod
+              <p className="hidden mb-6 text-lg font-poppins md:block lg:text-xl">
+                As premier mobile car detailers in Geelong, we cater to diverse
+                budgets and needs with our customized services. Choose from our
+                predefined packages or create a tailored bundle to suit your
+                specific requirements. Our greatest joy comes from witnessing
+                the delight on our clients' faces as they behold their
+                meticulously detailed vehicles. No matter the make or model,
+                rest assured that we treat your car as if it were our own.
               </p>
-              <p className="mb-11 hidden font-poppins md:text-lg lg:block lg:text-xl">
-                Lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod Lorem Ipsum dolor sit amet, consectetur adipiscing elit,
+              <p className="hidden mb-11 font-poppins md:text-lg lg:block lg:text-xl">
+                We take pride in delivering a range of services that transform
+                your vehicle into a pristine masterpiece. From exterior shine to
+                interior freshness, our meticulous approach ensures that your
+                car looks and feels its best. Our dedication to quality and
+                customer satisfaction is what sets us apart as one of Geelong's
+                top choices for mobile car detailing.
               </p>
             </div>
             {/* button */}
@@ -39,9 +45,9 @@ function Products() {
 
           {/* right */}
           <div className="-mt-4 flex max-h-[820px] flex-col justify-between overflow-auto p-4 scrollbar-hide">
-            <ProductCard image="/3.jpg" />
-            <ProductCard image="/6.jpg" />
-            <ProductCard image="/7.jpg" />
+            <ProductCard image="https://plus.unsplash.com/premium_photo-1682142558899-772a05c63a3e?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+            <ProductCard image="https://plus.unsplash.com/premium_photo-1682142558899-772a05c63a3e?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+            <ProductCard image="https://plus.unsplash.com/premium_photo-1682142558899-772a05c63a3e?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
           </div>
         </div>
       </div>

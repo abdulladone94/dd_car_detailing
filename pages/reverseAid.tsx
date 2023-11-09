@@ -6,19 +6,19 @@ function reverseAid() {
   return (
     <div className="w-full overflow-hidden">
       <Head>
-        <title>Jewel Iconic - Company</title>
-        <link rel="Jewel Iconic icon" href="favicon.png" type="image/x-icon" />
+        <title>DD - Company</title>
+        <link rel="DD icon" href="favicon.png" type="image/x-icon" />
       </Head>
-      <div className="container mx-auto p-4 text-center">
+      <div className="container p-4 mx-auto text-center">
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">REVERSE CAMERA INSTALLATION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
+            <div className="flex items-center my-6 text-4xl font-bold">
               Enhance your safety with Reverse Camera Installation.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 A reverse camera offers multiple advantages, including improved
                 safety, easy parking, and reduced driving stress.
@@ -37,14 +37,14 @@ function reverseAid() {
           </div>
         </div>
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">PARKING AID INSTALLATION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
+            <div className="flex items-center my-6 text-4xl font-bold">
               Simplify parking with professional Parking Aid Installation.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 Make parking a breeze with professional parking sensor
                 installation, including front and reverse sensors, and enjoy the

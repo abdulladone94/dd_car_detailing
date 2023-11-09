@@ -36,33 +36,31 @@ function Header() {
         isScrolled && 'border-b border-white/[0.2] sm:bg-[#141414]/50'
       } sticky top-0 z-30 overflow-hidden py-6 font-jost text-xl text-white`}
     >
-      <div className="mx-auto flex w-4/5 items-center justify-between gap-16 sm:mx-auto">
+      <div className="flex items-center justify-between w-4/5 gap-16 mx-auto sm:mx-auto">
         {/* leftside */}
         <div className=" h-[80px] w-[145px] cursor-pointer">
           <Link href="/">
-            <Image
-              src={logo_round}
-              alt="jewel iconic logo"
-              objectFit="contain"
-            />
+            <Image src={logo_round} alt="DD logo" objectFit="contain" />
           </Link>
         </div>
         {/* rightside */}
-        <nav className="hidden w-full justify-end sm:inline-flex">
+        <nav className="justify-end hidden w-full sm:inline-flex">
           <ol className="flex gap-5 lg:gap-20 [&_a]:transition-colors [&_a:hover]:text-yellow-100">
             <li className="rounded-sm py-[2px] px-3 transition delay-150 ease-in-out">
               <Link
-                href="/gems"
-                className={router.pathname === '/gems' ? 'text-yellow-400' : ''}
+                href="/car-detailing"
+                className={
+                  router.pathname === '/car-detailing' ? 'text-yellow-400' : ''
+                }
               >
                 CAR DETAILING
               </Link>
             </li>
             <li className="rounded-sm py-[2px] px-3 transition delay-150 ease-in-out ">
               <Link
-                href="/jewelry"
+                href="/car-paint"
                 className={
-                  router.pathname === '/jewelry' ? 'text-yellow-400' : ''
+                  router.pathname === '/car-paint' ? 'text-yellow-400' : ''
                 }
               >
                 CAR PAINT PROTECTION
@@ -126,7 +124,7 @@ function Header() {
         {/* mobile menu */}
         <div
           onClick={() => setToggle((toggle) => !toggle)}
-          className="relative flex flex-1 items-center justify-end sm:hidden"
+          className="relative flex items-center justify-end flex-1 sm:hidden"
         >
           <div className="Toogle Menu">
             <span className="sr-only">Toggle Menu</span>

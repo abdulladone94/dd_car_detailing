@@ -5,18 +5,20 @@ import CategoryCard from './categoryCard';
 function Categories() {
   return (
     <section>
-      <div className="mx-auto mb-48 max-w-7xl px-6 md:px-8">
+      <div className="px-6 mx-auto mb-48 max-w-7xl md:px-8">
         {/* top row */}
-        <div className="mb-14 flex justify-between lg:mb-20">
+        <div className="flex justify-between mb-14 lg:mb-20">
           {/* titles */}
           <div>
-            <p className="mb-3 font-jost text-2xl md:text-5xl lg:text-6xl">
-              You got the idea? Let us crunch
+            <p className="mb-3 text-2xl font-jost md:text-5xl lg:text-6xl">
+              WHY DO YOU CHOOSE US
             </p>
-            <p className="font-poppins text-lg lg:text-xl">
-              SparQ energizes your next big build with our expertise team,
+            <p className="text-lg font-poppins lg:text-xl">
+              When it comes to ceramic coat protection in Geelong and Melbourne,
               <br />
-              with directing, supporting and launching your MVP to the market.
+              trust the leaders. Our reputation, high-quality products, and
+              well-trained team set us apart for top-tier services and peace of
+              mind.
             </p>
           </div>
           {/* button */}

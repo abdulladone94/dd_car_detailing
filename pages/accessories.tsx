@@ -6,19 +6,19 @@ function reverseAid() {
   return (
     <div className="w-full overflow-hidden">
       <Head>
-        <title>Jewel Iconic - Company</title>
-        <link rel="Jewel Iconic icon" href="favicon.png" type="image/x-icon" />
+        <title>DD - Company</title>
+        <link rel="DD icon" href="favicon.png" type="image/x-icon" />
       </Head>
-      <div className="container mx-auto p-4 text-center">
+      <div className="container p-4 mx-auto text-center">
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">DRIVING LIGHT INSTALLATION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
+            <div className="flex items-center my-6 text-4xl font-bold">
               Illuminate your path with professional Driving Light Installation.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 DD Car Detailing is your top choice for premium driving light
                 installation, car accessories, and car detailing in Geelong and
@@ -49,14 +49,14 @@ function reverseAid() {
           </div>
         </div>
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">UHF ANTENNA INSTALLATION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
+            <div className="flex items-center my-6 text-4xl font-bold">
               Enhance communication with professional UHF Antenna Installation.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 DD Car Detailing, a top mobile car detailing and ceramic coating
                 provider, delivers premium services with eco-friendly products

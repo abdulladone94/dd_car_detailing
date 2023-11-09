@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="w-full overflow-hidden">
       <Head>
-        <title>Jewel Iconic</title>
+        <title>DD Car </title>
         <link rel="More Crunch icon" href="favicon.png" type="image/x-icon" />
       </Head>
 
@@ -28,7 +28,7 @@ export default function Home() {
         />
         {/* <Statistics /> */}
 
-        <div className="mx-auto bg-hero-pattern bg-cover bg-center pt-20">
+        <div className="pt-20 mx-auto bg-center bg-cover bg-hero-pattern">
           <Categories />
           <Products />
           {/* <Crew /> */}

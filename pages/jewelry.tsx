@@ -6,20 +6,20 @@ function Jewelry() {
   return (
     <div className="w-full overflow-hidden">
       <Head>
-        <title>Jewel Iconic - Projects</title>
-        <link rel="Jewel Iconic icon" href="favicon.png" type="image/x-icon" />
+        <title>DD - Projects</title>
+        <link rel="DD icon" href="favicon.png" type="image/x-icon" />
       </Head>
-      <div className="container mx-auto p-4 text-center">
+      <div className="container p-4 mx-auto text-center">
         <div className="md:flex md:items-center">
-          <Image src={car_Image} alt="Car Image" className="mr-4 h-16 w-16" />
+          <Image src={car_Image} alt="Car Image" className="w-16 h-16 mr-4" />
           <div className="text-start ">
             <div className="my-4 text-2xl">CERAMIC COAT PROTECTION</div>
-            <div className="my-6 flex items-center text-4xl font-bold">
+            <div className="flex items-center my-6 text-4xl font-bold">
               Ceramic coat benefits your car by providing long-lasting
               protection, a glossy finish, and making it easier to clean.
             </div>
 
-            <ul className="my-2 list-disc pl-6 text-lg">
+            <ul className="pl-6 my-2 text-lg list-disc">
               <li>
                 Save money and time on your car with Ceramic Coat Protection - a
                 professional touch for a perfect shine.

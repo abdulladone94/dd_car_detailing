@@ -6,12 +6,13 @@ import NewsCard from './newsCard';
 function News() {
   return (
     <section>
-      <div className="mx-auto mb-16 max-w-7xl px-6 md:mb-48 md:px-8">
-        <div className="mb-16 flex justify-between">
+      <div className="px-6 mx-auto mb-16 max-w-7xl md:mb-48 md:px-8">
+        <div className="flex justify-between mb-16">
           {/* titles */}
           <div>
-            <p className="font-jost text-2xl md:text-6xl">
-              Let’s find out the latest <br /> updates about us
+            <p className="text-2xl font-jost md:text-6xl">
+              {/* Let’s find out the latest <br /> updates about us */}
+              Plus Benefits with <br /> DD CAR DETAILING
             </p>
           </div>
           {/* button */}
@@ -27,10 +28,22 @@ function News() {
         {/* bottom row */}
         <div className="flex items-start">
           <div className="-ml-4 flex gap-[48px] overflow-scroll p-4 scrollbar-hide">
-            <NewsCard image="/9.jpg" />
-            <NewsCard image="/9.jpg" />
-            <NewsCard image="/9.jpg" />
-            <NewsCard image="/9.jpg" />
+            <NewsCard
+              content="Door step Services"
+              image="https://plus.unsplash.com/premium_photo-1661499704347-7851c4696ddd?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            />
+            <NewsCard
+              content="Quick and Trusted"
+              image="https://plus.unsplash.com/premium_photo-1661499704347-7851c4696ddd?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            />
+            <NewsCard
+              content="Quality with Qualified"
+              image="https://plus.unsplash.com/premium_photo-1661499704347-7851c4696ddd?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            />
+            <NewsCard
+              content="Available 24/7 open"
+              image="https://plus.unsplash.com/premium_photo-1661499704347-7851c4696ddd?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            />
           </div>
         </div>
       </div>
